@@ -1,6 +1,7 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+This template is created with Vue 3 in Vite. The app works in such a fashion that you search the git user name the api gets list of max 10 users related to that search.
+There are 3 columns one for search user, second for displaying selected user detail including image, date created etc and the last columns is for the repos realted to that user.
 
 ## Recommended IDE Setup
 
